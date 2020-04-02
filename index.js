@@ -1,5 +1,5 @@
 function updateObjectWithKeyAndValue(object, key, value) {
-  return Object.assign
+  return Object.assign()
 }
 
 function destructivelyUpdateObjectWithKeyAndValue (object, key, value) {
